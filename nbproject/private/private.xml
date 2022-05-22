@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/TraitListPaie.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/web/ListCommande.jsp</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/FicheComposant.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/model/Livraison.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/web/IngredientListe.jsp</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/ChoixTable.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/web/ListeCommandeNonPayer.jsp</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/ResteIngredient.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/TraitStock.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/web/CommandeNon.jsp</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/ListeIngredient.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/model/TypePaiement.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/model/Commande.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/Test.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/web/ListePayement.jsp</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/model/TypeProduit.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/FormulaireCommande.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/Pourboir.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/web/ResteIngredient.jsp</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/Autres.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/IngredientDate.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/model/TypeEtProduit.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/TraitCommande.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/ValidationCommande.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/web/FormCommande.jsp</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/TraitChoixTable.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/web/datePayement.jsp</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/base/Connexion.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/web/Template.jsp</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/web/ChoixTable.jsp</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/model/EnregistrementIngredient.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/ResteStock.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/FomListPayement.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/ListeProduitType.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/FormulairePourboir.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/InsertDateIngredient.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/model/VuePaiement.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/web/listecommande.jsp</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/model/StockIngredient.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/model/TableRestau.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/model/Fini.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/model/DetailsCommande.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/model/CommandeNPayer.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/FiltreList.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/web/ResteStock.jsp</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/src/java/servlet/CommandeNonPayer.java</file>
+            <file>file:/C:/Users/ITU/Documents/NetBeansProjects/Restau/web/InsertDateIngredient.jsp</file>
+        </group>
+    </open-files>
+</project-private>
